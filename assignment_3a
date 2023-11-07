@@ -1,0 +1,35 @@
+<!-- crete an github account and push your code in git hub repository  -->
+
+install git 
+
+cerate account of git hub 
+
+create repository / name"  " / discription (optional)
+
+public /create repository 
+
+create new file = "file1.txt",/write content in that file 
+<!-- in terminal  -->
+
+
+git init 
+
+to add file 
+git add "file name"=== to add single file 
+
+git add . ==== to add all file 
+
+to check status 
+
+git status 
+
+to add address == git remote add origin "url"
+
+git commit
+
+to push the code 
+
+git push -u origin master
+
+
+
